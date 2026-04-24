@@ -29,10 +29,10 @@ header {
     flex-wrap: wrap;
 }
 
-.header h2 {
-    font-size: 30px;
+header, h2, a{
+    font-style: none;
+    text-decoration: none;
     color: white;
-    flex-shrink: 0;
 }
 
 span {
